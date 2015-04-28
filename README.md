@@ -8,7 +8,10 @@
 </i>
 </p>
 
-  <p>
+<p>
     <img src="http://vfdesign.org/wp-content/uploads/2014/11/upis1.png" />
+</p>
+
+<p>
     <img src="http://vfdesign.org/wp-content/uploads/2014/11/home.png" />
-  </p>
+</p>
